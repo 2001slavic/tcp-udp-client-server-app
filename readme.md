@@ -89,6 +89,6 @@ If ``SF`` is set to **0**: when client disconnects, further messages will be los
 but client will still be subscribed.
 
 ## Credits
-The project assignment UDP clients and testing tools are given by the *Protocoale de comunicatii* 2021-2022 course team of *Faculty of Automatic Control and Computers* of *University POLITEHNICA of Bucharest*.
+The project assignment, UDP clients and testing tools are given by the *Protocoale de comunicatii* 2021-2022 course team of *Faculty of Automatic Control and Computers* of *University POLITEHNICA of Bucharest*.
 
 The usage of UDP clients is described in ``pcom_hw2_udp_client/README.md``.
